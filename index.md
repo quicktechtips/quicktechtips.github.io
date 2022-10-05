@@ -6,8 +6,14 @@ description: "Too soon!"
 permalink: /
 ---
 
-# You found me
+# Short explainations for "techy stuff"
 {: .fs-9 }
 
-You are a bit too early. Come back soon to find content.
-{: .fs-6 .fw-300}
+QuickTech.Tips provides short, easily-digestible explainers for common technical tasks.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .new }
+> **You are a bit too early.**
+> We are still working to load our content to the new website. Come back soon!
