@@ -2,7 +2,7 @@ remote_theme: just-the-docs/just-the-docs
 
 title: QuickTech.Tips
 description: Short explanations for technical tasks.
-baseurl: "/kb" # the subpath of your site, e.g. /blog
+baseurl: "/quicktechtips" # the subpath of your site, e.g. /blog
 url: "https://www.quicktech.tips" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
